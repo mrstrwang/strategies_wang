@@ -1,0 +1,29 @@
+{
+  "initCounter": 10000,
+  "baseInfo":[
+    {
+      "currency": "cny"
+    },
+    {
+      "currency": "btc",
+      "initPrice": 30000,
+      "lowLimit": 20000,
+      "highLimit": 40000,
+      "gap": 5,
+      "rate": 1.02,
+      "initBase": 0.0009,
+      "tradeAmount": 0.02,
+      "orderLength": 0
+    },
+    {
+      "currency": "eth",
+      "initPrice": 2470,
+      "lowLimit": 10000,
+      "gap": 5,
+      "rate": 1.002,
+      "initBase": 1.8,
+      "tradeAmount": 0.02,
+      "orderLength": 3
+    }
+  ]
+}
