@@ -1,0 +1,14 @@
+
+# 1. 密钥
+CONSTANT_BITZ1={
+    'api_key':'aad5b6e9c76327a7e8d6e9509f15a9db',
+    'SECRET_KEY':'laTWUMAwBOT69uGsC6pEWaW4TZC0AUC3n8e831TgvFyFGsHx8T4PM9A0BwaBxfeC',
+    'URL':'https://www.bitz.com'
+}
+CONSTANT_KEY_BITZ='aad5b6e9c76327a7e8d6e9509f15a9db'
+CONSTANT_SECRET_BITZ='laTWUMAwBOT69uGsC6pEWaW4TZC0AUC3n8e831TgvFyFGsHx8T4PM9A0BwaBxfeC'
+BITZ_API='https://www.bitz.com'
+
+
+
+

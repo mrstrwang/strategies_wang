@@ -1,0 +1,2 @@
+nohup python -u myscript.py params1 > nohup.out 2>&1 &  查看输出
+nohup python -u test8.py > log.out 2>&1 & 持续化运行  
