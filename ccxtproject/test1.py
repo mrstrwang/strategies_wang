@@ -8,10 +8,10 @@ import time
 
 # 引入初始信息
 bitz = ccxt.bitz()
-apikey = bitz.apiKey = 'e08edbaef8fca9984a652e00386ec2e8'
-secretkey = bitz.secret = 'HmctG3DcZyRONEA3d10wyPQ7LvYQbLToE1GFEh92MdvkvfHJaVk5DKgQYVgXoVe6'
-# bitz.password = 'vJ1cE1fB3rB7fF2'
-bitz.password = 'bX1gF6cF1cH7bD3'
+apikey = bitz.apiKey = ''
+secretkey = bitz.secret = ''
+# bitz.password = ''
+bitz.password = ''
 
 balance = bitz.fetch_balance()['BZ']   # 获取用户的BZ余额信息
 
